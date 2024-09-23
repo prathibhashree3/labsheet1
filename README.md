@@ -1,1 +1,2 @@
-# labsheet1
+mystring<-"Hello World!"
+print(mystring)
